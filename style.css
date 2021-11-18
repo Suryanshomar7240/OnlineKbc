@@ -1,0 +1,38 @@
+body{
+    /* background-color: #000000; */
+    width:100vw;
+    min-height: 100vh;
+    background-image: linear-gradient(to left top, #000000, #363636);
+    color:white;
+}
+.kbc{
+    font-size: 3em;
+    text-align: center;
+    padding-top: 5vh;
+    font-weight:700;
+    font-family: 'mokoto glitch 1';
+}
+.Leaderboard{
+    color:white;
+    padding-top: 3vh;
+    text-align: center;
+    font-size:2em;
+    font-weight:600;
+}
+hr{
+    background-color:white;
+}
+.tables
+{
+    width:80vw;
+    margin:2vh auto;
+    text-align: center;
+}
+.base-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col-1,.col-2,.col3{
+    width:20vw;
+}
