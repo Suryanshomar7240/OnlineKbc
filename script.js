@@ -44,7 +44,7 @@ data.sort((a, b)=>{
     if(a.score - b.score)
         return  b.score-a.score;
     else
-        return a.ll-b.ll;});
+        return b.ll-a.ll;});
 const genrateTable=(data)=>{
     const table=document.querySelector(".tables");
     // data.sort((a,b)=>(a.price>b.price));
