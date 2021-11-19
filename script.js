@@ -1,6 +1,6 @@
 const data=[
     {
-        name:"Abhishree",
+        name:"Abhi",
         score:95,
         ll1:true,
         ll2:true,
