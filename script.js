@@ -1,7 +1,7 @@
 const data=[
     {
         name:"Abhishree",
-        score:5,
+        score:95,
         ll1:true,
         ll2:true,
         ll3:true,
@@ -13,7 +13,7 @@ const data=[
         ll1:true,
         ll2:true,
         ll3:true,
-        ll:3
+        ll:2
     },
     {
         name:"Shit",
