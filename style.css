@@ -1,20 +1,137 @@
 body{
     /* background-color: #000000; */
-    width:100vw;
-    min-height: 100vh;
-    background-image: linear-gradient(to left top, #000000, #363636);
+    background-image: linear-gradient(to left, #00ccff 0%, #ffcc00 100%);
     color:white;
 }
-.kbc{
-    font-size: 3em;
-    text-align: center;
-    padding-top: 5vh;
-    font-weight:700;
-    font-family: 'mokoto glitch 1';
+@-webkit-keyframes myfirst
+{
+	0% {margin-top: -235px}
+	88% {margin-top: 100%;}
+	100% {margin-top: 100%;}
+}
+
+/* Animation */
+@keyframes myfirst
+{
+	0% {margin-top: -235px}
+	70% {margin-top: 100%;}
+	100% {margin-top: 100%;}
+}
+.paper{
+	width: 10px;
+	height: 12.5px;
+	margin-top: -235px;
+	position: absolute;	
+	animation: myfirst 18s;
+	-webkit-animation: myfirst 18s;
+	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	-webkit-animation-timing-function: linear;
+}
+#paper1,#paper4,#paper11,#paper41,#paper12,#paper42{
+    background-image: url('img/Untitled.png');
+}
+#paper2,#paper5,#paper21,#paper51,#paper22,#paper52{
+    background-image: url('img/Untitled1.png');
+}
+#paper3,#paper6,#paper31,#paper61,#paper32,#paper62{
+    background-image: url('img/Untitled2.png');
+}
+#paper1{
+    left: 12.5%;
+}
+#paper2{
+    animation-delay: 5s;
+	-webkit-animation-delay: 5s;
+    left: 30%;
+}
+#paper3{
+    animation-delay: 2s;
+	-webkit-animation-delay: 2s;
+    left: 45%;
+}
+#paper4{
+    animation-delay: 3s;
+	-webkit-animation-delay: 3s;
+    left: 60%;
+}
+#paper5{
+    animation-delay: 1s;
+	-webkit-animation-delay: 1s;
+    left: 75%;
+}
+#paper6{
+    animation-delay: 4s;
+	-webkit-animation-delay: 4s;
+    left: 88%;
+}
+#paper11{
+    left: 12.5%;
+    animation-delay: 11s;
+	-webkit-animation-delay: 11s;
+}
+#paper21{
+    animation-delay: 9s;
+	-webkit-animation-delay: 9s;
+    left: 30%;
+}
+#paper31{
+    animation-delay: 7s;
+	-webkit-animation-delay: 7s;
+    left: 45%;
+}
+#paper41{
+    animation-delay: 10s;
+	-webkit-animation-delay: 10s;
+    left: 60%;
+}
+#paper51{
+    animation-delay: 8s;
+	-webkit-animation-delay: 8s;
+    left: 75%;
+}
+#paper61{
+    animation-delay: 6s;
+	-webkit-animation-delay: 6s;
+    left: 88%;
+}
+#paper12{
+    left: 12.5%;
+    animation-delay: 16s;
+	-webkit-animation-delay: 16s;
+}
+#paper22{
+    animation-delay: 12s;
+	-webkit-animation-delay: 12s;
+    left: 30%;
+}
+#paper32{
+    animation-delay: 14s;
+	-webkit-animation-delay: 14s;
+    left: 45%;
+}
+#paper42{
+    animation-delay: 12.5s;
+	-webkit-animation-delay: 12.5s;
+    left: 60%;
+}
+#paper52{
+    animation-delay: 13s;
+	-webkit-animation-delay: 13s;
+    left: 75%;
+}
+#paper62{
+    animation-delay: 17s;
+	-webkit-animation-delay: 17s;
+    left: 88%;
 }
 .Leaderboard{
+    background-image: linear-gradient(to top left, #0066ff 0%, #ff99cc 100%);
     color:white;
-    padding-top: 3vh;
+    margin: 25px 25% 10px 25%;
+    border-radius: 10px;
+    padding: 1%;
     text-align: center;
     font-size:2em;
     font-weight:600;
@@ -24,15 +141,16 @@ hr{
 }
 .tables
 {
-    width:80vw;
+    width:80%;
     margin:2vh auto;
     text-align: center;
 }
 .base-row{
+    font-size: 2em;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .col-1,.col-2,.col3{
-    width:20vw;
+    flex-basis:20%;
 }
