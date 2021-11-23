@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 body{
     /* background-color: #000000; */
-    background-image: linear-gradient(to left, #00ccff 0%, #ffcc00 100%);
+    background-image:url('img/back.jpg');
+    background-size: 100% 52%;
+    min-height: 100vh;
     color:white;
 }
 @-webkit-keyframes myfirst
@@ -16,6 +19,9 @@ body{
 	0% {margin-top: -235px}
 	70% {margin-top: 100%;}
 	100% {margin-top: 100%;}
+}
+small{
+    font-size:50%;
 }
 .paper{
 	width: 10px;
@@ -127,12 +133,14 @@ body{
     left: 88%;
 }
 .Leaderboard{
-    background-image: linear-gradient(to top left, #0066ff 0%, #ff99cc 100%);
+    background-image: linear-gradient(to top left, #0066ff 0%, #2d0038 100%);
     color:white;
     margin: 25px 25% 10px 25%;
     border-radius: 10px;
     padding: 1%;
     text-align: center;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
     font-size:2em;
     font-weight:600;
 }
@@ -146,11 +154,35 @@ hr{
     text-align: center;
 }
 .base-row{
-    font-size: 2em;
+    /* font-size: 2em; */
+    font-size:2.5vw !important;
     display: flex;
-    justify-content: center;
+    justify-content:flex-start;
     align-items: center;
 }
-.col-1,.col-2,.col3{
+.col_3{
+    min-width: 20vw;
+}
+.col_1,.col_2,.col3{
     flex-basis:20%;
+}
+.col_5{
+    display: flex;
+    max-width: 20vw;
+    overflow: hidden;
+    justify-content:space-around;
+}
+.col_5 img{
+    width:20%;
+    object-fit: contain;
+}
+@media screen and (max-width:500px){
+    .Leaderboard{
+        width:70vw;
+        font-size:1.5em;
+        margin:5vh auto;
+    }
+    .paper{
+        display: none;
+    }
 }
