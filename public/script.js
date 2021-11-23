@@ -2,9 +2,9 @@ const data=[
     {
         name:"Akash Parua",
         score:0,
-        ll1:true,
-        ll2:true,
-        ll3:true,
+        ll1:false,
+        ll2:false,
+        ll3:false,
         ll:0,
         time:0
     },
