@@ -171,6 +171,7 @@ hr{
     max-width: 20vw;
     overflow: hidden;
     justify-content:space-around;
+    padding-left: 5vw;
 }
 .col_5 img{
     width:20%;

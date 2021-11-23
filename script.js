@@ -2,9 +2,9 @@ const data=[
     {
         name:"Akash Parua",
         score:0,
-        ll1:false,
-        ll2:false,
-        ll3:false,
+        ll1:true,
+        ll2:true,
+        ll3:true,
         ll:0,
         time:0
     },
@@ -259,11 +259,11 @@ const genrateTable=(data)=>{
         div3.innerHTML=item.name;
         div2.innerHTML=item.score;
         if(item.ll1)
-            div4.innerHTML+="<img src='img/Ask Expert.png' alt='lifeline-1'></img>";
+            div4.innerHTML+="<img src='img/audience poll.png' alt='lifeline-1'></img>";
         if(item.ll2)
             div4.innerHTML+="<img src='img/DoubleDip.png' alt='lifeline-2'></img>";
         if(item.ll3)
-            div4.innerHTML+="<img src='img/Flip Question.png' alt='lifeline-3'></img>";
+            div4.innerHTML+="<img src='img/google.png' alt='lifeline-3'></img>";
         li.appendChild(div1);
         li.appendChild(div3);
         li.appendChild(div2);
