@@ -2,22 +2,22 @@ const data=[
     
       {
         name:"Prayag Biswas",
-        score:5000000,
+        score:10000000,
         ll1:true,
         ll2:true,
-        ll3:false,
-        ll:2,
-        time:115
+        ll3:true,
+        ll:3,
+        time:140
     },
     
       {
         name:"Rawnaq",
-      score:5000000,
+          score:10000000,
         ll1:true,
         ll2:true,
-        ll3:false,
-        ll:2,
-        time:115
+        ll3:true,
+        ll:3,
+        time:140
     },
     {
         name:"Jhatin Verma",
