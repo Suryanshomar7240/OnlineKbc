@@ -1,5 +1,22 @@
 const data=[
-    
+    {
+        name:"Jhatin Verma",
+        score:5000,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:50
+    },
+     {
+        name:"Akshay Verma",
+         score:5000,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:50
+    },
     {
         name:"Ravikant Tiwari",
         score:10000000,
@@ -220,15 +237,6 @@ const data=[
     },
     {
         name:"Pallav Saxena",
-        score:0,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:0
-    },
-    {
-        name:"Jhatin Verma",
         score:0,
         ll1:false,
         ll2:false,
