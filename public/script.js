@@ -6,7 +6,7 @@ const data=[
         ll2:true,
         ll3:false,
         ll:1,
-        time:0
+        time:45
     },
     {
         name:"Pankaj Kumar",
@@ -15,7 +15,7 @@ const data=[
         ll2:true,
         ll3:false,
         ll:1,
-        time:0
+        time:45
     },
     {
         name:"Akash Parua",
