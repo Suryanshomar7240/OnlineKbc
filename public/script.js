@@ -1,6 +1,6 @@
 const data=[
     {
-        name:"Jhatin Verma",
+        name:"Jatin Verma",
         score:5000000,
         ll1:true,
         ll2:true,
