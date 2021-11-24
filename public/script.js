@@ -82,21 +82,21 @@ const data=[
     },
     {
         name:"Gautam raj",
-        score:16000,
+        score:66000,
         ll1:false,
         ll2:false,
         ll3:false,
         ll:0,
-        time:42
+        time:50
     },
     {
         name:"Khushal sharma",
-        score:16000,
+        score:66000,
         ll1:false,
         ll2:false,
         ll3:false,
         ll:0,
-        time:42
+        time:50
     },
     {
         name:"Akshit Choudari",
