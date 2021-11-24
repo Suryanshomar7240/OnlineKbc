@@ -1,5 +1,24 @@
 const data=[
+    
      {
+        name:"Tanishque Skula",
+        score:10000,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:15
+    },
+     {
+        name:"Yashraj Singh",
+        score:10000,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:15
+    },
+      {
         name:"Prayag Biswas",
         score:0,
         ll1:false,
@@ -7,24 +26,6 @@ const data=[
         ll3:false,
         ll:0,
         time:0
-    },
-     {
-        name:"Tanishque Skula",
-        score:5000,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:10
-    },
-     {
-        name:"Yashraj Singh",
-        score:5000,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:10
     },
      {
         name:"V Adithya Venkat",
