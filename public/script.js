@@ -82,12 +82,12 @@ const data=[
     },
     {
         name:"Gautam raj",
-        score:0,
+        score:1000,
         ll1:false,
         ll2:false,
         ll3:false,
         ll:0,
-        time:0
+        time:7
     },
     {
         name:"Akshit Choudari",
