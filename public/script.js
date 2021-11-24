@@ -2,21 +2,21 @@ const data=[
     
      {
         name:"Tanishque Skula",
-        score:1000000,
-        ll1:false,
+        score:5000000,
+        ll1:true,
         ll2:true,
         ll3:true,
-        ll:2,
-        time:100
+        ll:3,
+        time:145
     },
      {
         name:"Yashraj Singh",
-        score:1000000,
-        ll1:false,
+        score:5000000,
+        ll1:true,
         ll2:true,
         ll3:true,
-        ll:2,
-        time:100
+        ll:3,
+        time:145
     },
       {
         name:"Prayag Biswas",
