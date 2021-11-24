@@ -9,7 +9,7 @@ const data=[
         time:200
     },
      {
-        name:"Akshay Verma",
+        name:"Akshay Tomar",
        score:5000000,
         ll1:true,
         ll2:true,
