@@ -1,21 +1,21 @@
 const data=[
      {
         name:"V Adithya Venkat",
-        score:1000,
+        score:6000,
         ll1:false,
         ll2:false,
         ll3:true,
         ll:1,
-        time:45
+        time:55
     },
      {
         name:"Divya Kumar Karan",
-        score:1000,
+       score:6000,
         ll1:false,
         ll2:false,
         ll3:true,
         ll:1,
-        time:45
+        time:55
     },
      {
         name:"Akshita Dixit",
