@@ -1,4 +1,22 @@
 const data=[
+     {
+        name:"Akshita Dixit",
+        score:0,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:0
+    },
+    {
+        name:"Pankaj Kumar",
+        score:0,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:0
+    },
     {
         name:"Akash Parua",
         score:0,
@@ -19,15 +37,6 @@ const data=[
     },
     {
         name:"Anuj Kirodia",
-        score:0,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:0
-    },
-    {
-        name:"Pankaj Kumar",
         score:0,
         ll1:false,
         ll2:false,
@@ -71,15 +80,7 @@ const data=[
         ll:0,
         time:0
     },
-    {
-        name:"Akshita Dixit",
-        score:0,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:0
-    },
+   
     {
         name:"Gautam raj",
         score:66000,
