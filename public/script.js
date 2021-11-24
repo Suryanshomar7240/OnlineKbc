@@ -8,6 +8,15 @@ const data=[
         ll:0,
         time:0
     },
+     {
+        name:"Ayushman Bhatt",
+        score:0,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:0
+    },
     {
         name:"Pankaj Kumar",
         score:0,
@@ -71,16 +80,6 @@ const data=[
         ll:0,
         time:0
     },
-    {
-        name:"Ayushman Bhatt",
-        score:0,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:0
-    },
-   
     {
         name:"Gautam raj",
         score:66000,
