@@ -1,21 +1,21 @@
 const data=[
     {
         name:"Jhatin Verma",
-        score:100000,
+        score:500000,
         ll1:true,
-        ll2:false,
+        ll2:true,
         ll3:false,
-        ll:1,
-        time:110
+        ll:2,
+        time:140
     },
      {
         name:"Akshay Verma",
-          score:100000,
+         score:500000,
         ll1:true,
-        ll2:false,
+        ll2:true,
         ll3:false,
-        ll:1,
-        time:110
+        ll:2,
+        time:140
     },
     {
         name:"Ravikant Tiwari",
