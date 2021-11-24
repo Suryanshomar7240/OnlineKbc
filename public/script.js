@@ -1,24 +1,4 @@
 const data=[
-    
-      {
-        name:"Prayag Biswas",
-        score:10000000,
-        ll1:true,
-        ll2:true,
-        ll3:true,
-        ll:3,
-        time:140
-    },
-    
-      {
-        name:"Rawnaq",
-          score:10000000,
-        ll1:true,
-        ll2:true,
-        ll3:true,
-        ll:3,
-        time:140
-    },
     {
         name:"Jhatin Verma",
         score:5000000,
