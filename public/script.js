@@ -1,5 +1,23 @@
 const data=[
      {
+        name:"Prayag Biswas",
+        score:0,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:0
+    },
+     {
+        name:"Yashraj Singh",
+        score:0,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:0
+    },
+     {
         name:"V Adithya Venkat",
         score:5000,
         ll1:false,
@@ -64,15 +82,6 @@ const data=[
     },
     {
         name:"Anuj Kirodia",
-        score:0,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:0
-    },
-    {
-        name:"Prayag Biswas",
         score:0,
         ll1:false,
         ll2:false,
