@@ -1,21 +1,21 @@
 const data=[
      {
         name:"V Adithya Venkat",
-        score:6000,
+        score:5000,
         ll1:false,
         ll2:true,
         ll3:true,
         ll:1,
-        time:55
+        time:65
     },
      {
         name:"Divya Kumar Karan",
-       score:6000,
+       score:5000,
         ll1:false,
         ll2:true,
         ll3:true,
         ll:1,
-        time:55
+        time:65
     },
      {
         name:"Akshita Dixit",
@@ -100,7 +100,7 @@ const data=[
     },
     {
         name:"Gautam raj",
-        score:66000,
+        score:50000,
         ll1:false,
         ll2:true,
         ll3:false,
@@ -109,7 +109,7 @@ const data=[
     },
     {
         name:"Khushal sharma",
-        score:66000,
+        score:50000,
         ll1:false,
         ll2:true,
         ll3:false,
