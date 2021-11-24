@@ -233,6 +233,15 @@ const data=[
         ll:0,
         time:0
     },
+    {
+        name:"Anindita Paramanik",
+        score:0,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:0
+    },
 ];
 data.sort((a, b)=>{
     if((a.score - b.score)!=0)
