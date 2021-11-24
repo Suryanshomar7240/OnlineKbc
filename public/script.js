@@ -1,4 +1,23 @@
 const data=[
+    
+    {
+        name:"Ravikant Tiwari",
+        score:1000,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:5
+    },
+    {
+        name:"Srijanjeet Singh",
+        score:1000,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:5
+    },
     {
         name:"Alok Kumar rai",
         score:0,
@@ -183,15 +202,6 @@ const data=[
     },
     {
         name:"Medhir Manoj",
-        score:0,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:0
-    },
-    {
-        name:"Ravikant Tiwari",
         score:0,
         ll1:false,
         ll2:false,
