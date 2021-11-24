@@ -1,5 +1,23 @@
 const data=[
     {
+        name:"Alok Kumar rai",
+        score:0,
+        ll1:false,
+        ll2:true,
+        ll3:false,
+        ll:1,
+        time:0
+    },
+    {
+        name:"Pankaj Kumar",
+        score:0,
+        ll1:false,
+        ll2:true,
+        ll3:false,
+        ll:1,
+        time:0
+    },
+    {
         name:"Akash Parua",
         score:100000,
         ll1:false,
@@ -35,6 +53,7 @@ const data=[
         ll:3,
         time:145
     },
+     
       {
         name:"Prayag Biswas",
         score:0,
