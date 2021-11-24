@@ -1,5 +1,22 @@
 const data=[
-    
+    {
+        name:"Akash Parua",
+        score:5000,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:15
+    },
+    {
+        name:"Manish Kumar",
+        score:5000,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:15
+    },
      {
         name:"Tanishque Skula",
         score:5000000,
@@ -72,15 +89,7 @@ const data=[
         ll:0,
         time:0
     },
-    {
-        name:"Akash Parua",
-        score:0,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:0
-    },
+    
     {
         name:"Paras Papnai",
         score:0,
@@ -191,15 +200,6 @@ const data=[
     },
     {
         name:"Jhatin Verma",
-        score:0,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:0
-    },
-    {
-        name:"Manish Kumar",
         score:0,
         ll1:false,
         ll2:false,
