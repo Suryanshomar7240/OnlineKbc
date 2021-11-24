@@ -2,21 +2,21 @@ const data=[
     
     {
         name:"Ravikant Tiwari",
-        score:1000000,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:90
+        score:10000000,
+        ll1:true,
+        ll2:true,
+        ll3:true,
+        ll:3,
+        time:130
     },
     {
         name:"Srijanjeet Singh",
-        score:1000000,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:90
+        score:10000000,
+        ll1:true,
+        ll2:true,
+        ll3:true,
+        ll:3,
+        time:130
     },
     {
         name:"Alok Kumar rai",
