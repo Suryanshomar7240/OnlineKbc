@@ -16,7 +16,7 @@ const data=[
         ll3:true,
         ll:3,
         time:150
-    }
+    },
     {
         name:"Jatin Verma",
         score:1000000,
