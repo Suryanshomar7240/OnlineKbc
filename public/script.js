@@ -1,4 +1,24 @@
 const data=[
+    
+      {
+        name:"Prayag Biswas",
+        score:1000,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:10
+    },
+    
+      {
+        name:"Rawnaq",
+         score:1000,
+        ll1:false,
+        ll2:false,
+        ll3:false,
+        ll:0,
+        time:10
+    },
     {
         name:"Jhatin Verma",
         score:5000000,
@@ -88,16 +108,6 @@ const data=[
         ll3:true,
         ll:3,
         time:145
-    },
-     
-      {
-        name:"Prayag Biswas",
-        score:0,
-        ll1:false,
-        ll2:false,
-        ll3:false,
-        ll:0,
-        time:0
     },
      {
         name:"V Adithya Venkat",
