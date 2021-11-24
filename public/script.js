@@ -1,7 +1,25 @@
 const data=[
+     {
+        name:"Prayag Biswas",
+        score:500000,
+        ll1:true,
+        ll2:true,
+        ll3:true,
+        ll:3,
+        time:150
+    },
+     {
+        name:"Ranak Sunil",
+       score:500000,
+        ll1:true,
+        ll2:true,
+        ll3:true,
+        ll:3,
+        time:150
+    }
     {
         name:"Jatin Verma",
-        score:5000000,
+        score:1000000,
         ll1:true,
         ll2:true,
         ll3:true,
@@ -10,7 +28,7 @@ const data=[
     },
      {
         name:"Akshay Tomar",
-       score:5000000,
+        score:1000000,
         ll1:true,
         ll2:true,
         ll3:true,
