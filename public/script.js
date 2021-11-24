@@ -36,7 +36,7 @@ const data=[
         time:75
     },
      {
-        name:"Tanishque Skula",
+        name:"Tanishque Shukla",
         score:5000000,
         ll1:true,
         ll2:true,
