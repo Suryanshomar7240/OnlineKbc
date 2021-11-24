@@ -3,7 +3,7 @@ const data=[
         name:"V Adithya Venkat",
         score:6000,
         ll1:false,
-        ll2:false,
+        ll2:true,
         ll3:true,
         ll:1,
         time:55
@@ -12,7 +12,7 @@ const data=[
         name:"Divya Kumar Karan",
        score:6000,
         ll1:false,
-        ll2:false,
+        ll2:true,
         ll3:true,
         ll:1,
         time:55
