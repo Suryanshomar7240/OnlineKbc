@@ -1,7 +1,7 @@
 const data = [
     {
-        name: "Team Jhatin",
-        score: 0,
+        name: "Team Jatin (W)",
+        score: 1 + 1,
         // ll1: true,
         // ll2: true,
         // ll3: true,
@@ -10,8 +10,8 @@ const data = [
         member: 5
     },
     {
-        name: "Team RAW",
-        score: 0,
+        name: "Team Venkat (L)",
+        score: 1 + 1,
         // ll1: true,
         // ll2: true,
         // ll3: true,
@@ -20,8 +20,18 @@ const data = [
         member: 5
     },
     {
-        name: "Team -3",
-        score: 0,
+        name: "Amarjit (Actor)",
+        score: 5,
+        member: "Best Actor"
+    },
+    {
+        name: "Aditya (Actor)",
+        score: 5,
+        member: "Best Actor"
+    },
+    {
+        name: "Team Dumb Noobs (W)",
+        score: 10.6,
         // ll1: true,
         // ll2: true,
         // ll3: true,
@@ -30,8 +40,8 @@ const data = [
         member: 5
     },
     {
-        name: "Team -4",
-        score: 0,
+        name: "Team Amarjit (L)",
+        score: 4,
         // ll1: true,
         // ll2: true,
         // ll3: true,
@@ -40,8 +50,28 @@ const data = [
         member: 5
     },
     {
-        name: "Team -5",
-        score: 0,
+        name: "Team Aditya (L)",
+        score: 7.3,
+        // ll1: true,
+        // ll2: true,
+        // ll3: true,
+        // ll: 3,
+        // time: 150
+        member: 3
+    },
+    {
+        name: "Team Akash (W)",
+        score: 8.6,
+        // ll1: true,
+        // ll2: true,
+        // ll3: true,
+        // ll: 3,
+        // time: 150
+        member: 3
+    },
+    {
+        name: "Team Aman (W)",
+        score: 3 + 5,
         // ll1: true,
         // ll2: true,
         // ll3: true,
@@ -50,8 +80,8 @@ const data = [
         member: 5
     },
     {
-        name: "Team -6",
-        score: 0,
+        name: "Team Gautam (L)",
+        score: 5 + 1,
         // ll1: true,
         // ll2: true,
         // ll3: true,
@@ -60,8 +90,8 @@ const data = [
         member: 5
     },
     {
-        name: "Team -7",
-        score: 0,
+        name: "Pappi Gang (W)",
+        score: 4 + 5,
         // ll1: true,
         // ll2: true,
         // ll3: true,
@@ -70,8 +100,18 @@ const data = [
         member: 5
     },
     {
-        name: "Team -8",
-        score: 0,
+        name: "Pappi Gang Jr. (L)",
+        score: 4 + 3,
+        // ll1: true,
+        // ll2: true,
+        // ll3: true,
+        // ll: 3,
+        // time: 150
+        member: 4
+    },
+    {
+        name: "Team RAW (L)",
+        score: 5,
         // ll1: true,
         // ll2: true,
         // ll3: true,
@@ -80,38 +120,8 @@ const data = [
         member: 5
     },
     {
-        name: "Team -9",
-        score: 0,
-        // ll1: true,
-        // ll2: true,
-        // ll3: true,
-        // ll: 3,
-        // time: 150
-        member: 5
-    },
-    {
-        name: "Team -10",
-        score: 0,
-        // ll1: true,
-        // ll2: true,
-        // ll3: true,
-        // ll: 3,
-        // time: 150
-        member: 5
-    },
-    {
-        name: "Team -11",
-        score: 0,
-        // ll1: true,
-        // ll2: true,
-        // ll3: true,
-        // ll: 3,
-        // time: 150
-        member: 5
-    },
-    {
-        name: "Team -12",
-        score: 0,
+        name: "Team Arshalan (W)",
+        score: 5 + 4 + 2,
         // ll1: true,
         // ll2: true,
         // ll3: true,
